@@ -21,7 +21,7 @@
 <ol>
 <li></li>
 </ol>
-<p><img src="https://abload.de/img/bildschirmfoto2021-05idjlu.png" alt="Bild bildschirmfoto2021-05idjlu.png auf abload.de"></p>
+<p>![Bild bildschirmfoto2021-05idjlu.png] auf <a href="http://abload.de">abload.de</a>](<a href="https://abload.de/img/bildschirmfoto2021-05idjlu.png">https://abload.de/img/bildschirmfoto2021-05idjlu.png</a>)</p>
 <ol start="2">
 <li></li>
 </ol>
